@@ -1,0 +1,8 @@
+{
+  "label": "Utilisation du site",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "L'ensemble de la documentation utilisateur du site Quai Antique."
+  }
+}
