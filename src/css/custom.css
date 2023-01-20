@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* You can add custom CSS here. */
+img[alt='Example'] {
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  padding: 2rem;
+  width: 20rem;
+}

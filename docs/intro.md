@@ -13,17 +13,14 @@ Le github du projet est disponible [ici](https://github.com/antikkorps/quai_anti
 
 ## Utilisation du site Quai Antique
 
-Generate a new Docusaurus site using the **classic template**.
+### Connexion de l'utilisateur
 
-The classic template will automatically be added to your project after you run the command:
+L'enregistrement et la connexion d'un utilisateur se fait à partir de la page d'accueil du site.
+Pour le détail [cliquez-ici](/docs/Utilisation/utilisateur.md).
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Mot de passe oublié
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Réservation d'une table
 
 ## Start your site
 
