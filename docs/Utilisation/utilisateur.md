@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Gestion des utilisateurs par le back-office
 
+La gestion des utilisateurs se fait par le back-office
+
 ![Example](/img/undraw_docusaurus_mountain.svg)
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.

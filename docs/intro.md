@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Documentation du Site Quai Antique
+# Bienvenue sur la documentation du Site Quai Antique
 
-Bienvenue sur cette interface qui a pour but de collecter l'ensembme des éléments permettant l'**utilisation du site Quai Antique**.
+Cette interface a pour but de collecter l'ensemble des éléments permettant l'**utilisation du site Quai Antique**.
 
 ## Première partie : Installation en local du site
 
@@ -21,6 +21,10 @@ Pour le détail [cliquez-ici](/docs/Utilisation/utilisateur.md).
 ### Mot de passe oublié
 
 ### Réservation d'une table
+
+### Mise en ligne des plats et affichage sur la page d'accueil
+
+### Modification des Horaires et des capacités
 
 ## Start your site
 

@@ -83,13 +83,19 @@ symfony server:start
 
 Enfin j'attire votre attention sur le fait que l'ensemble des variables d'environnement (DATABASE_URL et MAILER_DSN) sont à compléter pour pouvoir tester l'intégralité des fonctionnalités en local et notamment les fonctionnalités de réservation / confirmation par mail des réservations ou les ré-initialisations de mots de passe.
 
-Vous pouvez pour le mailer utiliser [mailtrap](https://mailtrap.io/) qui fournit un compte gratuit qui vous permettra de réaliser des tests. il vous faudra également, après avoir rempli les éléments du mail et effectué une réservation, par exemple, taper la commande:
+:::tip MAILER
+Vous pouvez pour le mailer utiliser [mailtrap](https://mailtrap.io/) qui fournit un compte gratuit qui vous permettra de réaliser des tests.
+:::
+
+:::danger
+Il vous faudra également, après avoir rempli les éléments du mail et effectué une réservation, par exemple, taper la commande:
 
 ```
 php bin/console messenger:consume async
 ```
 
 Cela permettra d'envoyer toutes les requêtes asynchrone du messenger. Une fois fait, vous pourrez constater l'arrivée du mail dans [mailtrap](https://mailtrap.io/)
+:::
 
 ## Documents complémentaires
 
