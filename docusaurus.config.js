@@ -85,12 +85,8 @@ const config = {
 
             items: [
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/antikkorps',
               },
             ],
           },
